@@ -50,7 +50,7 @@ This is just a starting point.  Use the header, footer, three navigation modes, 
 <ul><li><a href="http://p2.tindoclass.me/index.php">Project 2 </a><li><a href="https://github.com/tindo24/P2">Project 2 Github link </a></li></li>
 
     <li></li><a href="http://p3.tindoclass.me/">Project 3</a><li><a href="https://github.com/tindo24/P3">Project 3 Github link </a></li></li>
-   <li> <a href="#">Project 4</a><li><a href="#">Project 4 Github link </a></li></li>
+   <li> <a href="http://p4.tindoclass.me/">Project 4</a><li><a href="https://github.com/tindo24/P4.git">Project 4 Github link </a></li></li>
 
 </ul>
 </li>
